@@ -16,9 +16,14 @@
 
 <body>
     <div class="valign-wrapper indigo darken-3">
-        <h1 class="center-align row white-text">
-            Coming soon
-        </h1>
+        <div class="container">
+            <div class="row center-align">
+                <img src="assets/img/logo.png" alt="">
+            </div>
+            <h1 class="center-align row white-text">
+                Coming soon...
+            </h1>
+        </div>
     </div>
 </body>
 
