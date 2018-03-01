@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <div class="valign-wrapper purple darken-3">
+    <div class="valign-wrapper indigo darken-3">
         <h1 class="center-align row white-text">
             Coming soon
         </h1>
