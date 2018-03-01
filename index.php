@@ -18,11 +18,17 @@
     <div class="valign-wrapper indigo darken-3">
         <div class="container">
             <div class="row center-align">
-                <img src="assets/img/logo.png" alt="">
+                <div class="col s12">
+                    <img src="assets/img/logo.png" class="responsive-img">
+                </div>
+
             </div>
-            <h1 class="center-align row white-text">
-                Coming soon...
-            </h1>
+            <div class="row">
+                <h1 class="center-align col s12 white-text">
+                    Coming soon...
+                </h1>
+            </div>
+
         </div>
     </div>
 </body>
